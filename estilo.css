@@ -1,0 +1,18 @@
+body{
+    height: 100vh;
+    width: 100vw;
+    background: rgb(34,151,195);
+    background: linear-gradient(0deg, rgba(34,151,195,1) 0%, rgba(237,45,253,1) 100%);
+   
+   }
+   
+   .teste1{
+    display: flex;
+    justify-content: center;
+   
+       }
+   
+       .espacamento{
+   margin-left: 100px;
+   
+       }
