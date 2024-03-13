@@ -1,8 +1,8 @@
 body{
     height: 100vh;
     width: 100vw;
-    background: rgb(34,151,195);
-    background: linear-gradient(0deg, rgba(34,151,195,1) 0%, rgba(237,45,253,1) 100%);
+    background: rgb(138, 240, 5);
+    background: linear-gradient(0deg, rgb(11, 99, 230) 0%, rgb(45, 211, 253) 100%);
    
    }
    
