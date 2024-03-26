@@ -17,15 +17,15 @@
   .colunas{
     padding: 100px 0;
     display: grid;
-    grid-template-columns: 20% 40% 40%;
-    background-color: #7bb69a;
+    grid-template-columns: 26% 37% 37%;
+    background-color: #ffffff;
     
   }
   
   .coluna{
     margin-left: 50px;
     padding: 20px;
-    border: 3px solid red;
+    border: 3px solid #7bb69a;
     border-radius: 20px;
   }
   
